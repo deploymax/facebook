@@ -79,3 +79,4 @@ gem 'capistrano-rbenv', '~> 2.1', '>= 2.1.4'
 
 
 gem 'strscan' , '~> 3.0.4'
+gem "tailwindcss-rails", "~> 2.0"
