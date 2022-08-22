@@ -254,7 +254,7 @@ DEPENDENCIES
   selenium-webdriver
   sprockets-rails
   stimulus-rails
-  strscan
+  strscan (~> 3.0.4)
   turbo-rails
   tzinfo-data
   web-console
